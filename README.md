@@ -16,7 +16,7 @@ This is a simple machine learning web application that predicts Boston house pri
 
 ## 🚀 Live Demo
 
-🔗 [https://bostonhousepricing-phwy.onrender.com](https://bostonhousepricing-phwy.onrender.com)
+🔗 [Live Demo](https://bostonhousepricing-phwy.onrender.com)
 
 ---
 
